@@ -53,7 +53,7 @@ function Experience() {
               </article>
               <article className='experience__details'>
                   <BsFillPatchCheckFill className='experience__details-icon'/>
-                  <div><h4>Selenium</h4>
+                  <div><h4>Cypress</h4>
                   <small className='text-light'>Intermediate</small></div>
               </article>
               <article className='experience__details'>
@@ -75,6 +75,11 @@ function Experience() {
                   <BsFillPatchCheckFill className='experience__details-icon'/>
                   <div><h4>Intern QA Engineer at Omobio PVT Ltd</h4>
                   <small className='text-light'>8 Months Experienced</small></div>
+              </article>
+              <article className='experience__details'>
+                  <BsFillPatchCheckFill className='experience__details-icon'/>
+                  <div><h4>QA Engineer at Synergy Information Systems</h4>
+                  <small className='text-light'>Currently Working</small></div>
               </article>
             
             </div>
