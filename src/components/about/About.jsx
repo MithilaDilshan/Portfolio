@@ -16,7 +16,7 @@ function about() {
                     <MdCastForEducation className='about__icon'/>
                     <h5>Education</h5>
                     <small>Sri Lanka Institute of Information Technology <br /></small>
-                     <small>2020 - 2024 </small>
+                     <small>2020 - 2024 <br /> Graduated </small>
                 </article>
                 <article className='about__card'>
                     <MdCastForEducation className='about__icon'/>
@@ -32,7 +32,9 @@ function about() {
 
             </div>
 <p>
-  I'm 4rd year Undergraduate student in sri lanka institute of information technology(SLIIT).I'm studying BSc.(Hons) in information technology.i'm interested in Quality assurance and frontend web application development.
+  Quality Assurance Engineer with hands-on experience in manual and automation testing for production-level Network Management System (NMS) products. 
+  Strong knowledge of test planning, regression testing, defect tracking, API testing, and Agile methodologies. Experienced in collaborating with cross-functional teams 
+  Teams to ensure high-quality software delivery.
 </p>
 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 </div>
