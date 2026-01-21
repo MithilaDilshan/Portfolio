@@ -11,7 +11,7 @@ function services() {
   <article className="service">
     <div className="service">
       <div className="service__head">
-        <h3>CRAZY Software Quality Assurance Engineer </h3></div>
+        <h3>Software Quality Assurance and Testing </h3></div>
         <ul className="service__list">
           <li>
             <BiCheck className='service__list-icon'/>
@@ -19,7 +19,7 @@ function services() {
               </li>
               <li>
             <BiCheck className='service__list-icon'/>
-            <p>Develop highly interactive Front end / User Interfaces for your web and mobile applications</p>
+            <p>Writing cypress Automation scripts & performing Regression testing</p>
               </li>
               <li>
             <BiCheck className='service__list-icon'/>
